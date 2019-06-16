@@ -1,0 +1,16 @@
+mac-address,name,password,email,gender
+716248a6da25729dff0083ac33 79e296e613411,PersonOne,12345678,person.1.2014@economics.smu.edu.sg,M
+716248a6da25729dff0083ac33e79e296e61343@,PersonThree,12345678,person.3.2014@economics.smu.edu.sg,M
+,PersonTwo,12345678,person.2.2014@economics.smu.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d666,PersonSix,,person.6.2015@sis.smu.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d677,PersonSeven,1234567,person.7.2015@sis.smu.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d677,PersonSeven,12345 678,person.7.2015@sis.smu.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d688,PersonEight,12345678,,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d699,PersonNine,12345678,person.8.2015@pop.smu.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d610,PersonTen,12345678,person.9.2015@pop.nus.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d611,PersonEleven,12345678,dsafdsafdsafsafasfasfafsafsa,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d612,PersonTwelve,12345678,person.11 .2015@pop.nus.edu.sg,M
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d613,PersonThirteen,12345678,person.12.2015@@sis.smu.edu.sg,MF
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d614,PersonFourteen,12345678,person.13.2015@sis.smu.edu.sg,T
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d615,PersonFifteen,12345678,person.14.2015@pop.nus.edu.sg,
+04cd7119a7c745c4eb7c2a2d8d9428cf39c4d616,PersonSixteen,12345678,person.16.2014@economics.smu.edu.sg,M

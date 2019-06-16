@@ -1,0 +1,6 @@
+mac-address,name,password,email,gender
+07c55ec87c91b6a639311df466ef58b938474511,Person1,pwd12345678,person.1.2017@sis.smu.edu.sg,M
+07c55ec87c91b6a639311df466ef58b938474522,Person2,pwd23456789,person.2.2017@sis.smu.edu.sg,F
+07c55ec87c91b6a639311df466ef58b938474533,Person3,pwd34567890,person.3.2017@sis.smu.edu.sg,M
+07c55ec87c91b6a639311df466ef58b938474544,Person4,pwd45678901,person.4.2017@sis.smu.edu.sg,F
+07c55ec87c91b6a639311df466ef58b938474555,Person5,pwd56789012,person.5.2017@sis.smu.edu.sg,M

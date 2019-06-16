@@ -1,0 +1,13 @@
+is203.se.AGD
+is203.se.BasicLocationReports.breakdown
+is203.se.BasicLocationReports.locationChunk
+is203.se.BasicLocationReports.topKCompanions
+is203.se.BasicLocationReports.topKNextPlaces
+is203.se.BasicLocationReports.topKPlaces
+is203.se.Bootstrap
+is203.se.Connection
+is203.se.DAO
+is203.se.Entity
+is203.se.Heatmap
+is203.se.JsonAuthentication
+is203.se.Validation
